@@ -1,0 +1,32 @@
+body{
+  background-color: #DFEBEB;
+  color: #400505;
+  align-items: center;
+  text-align: center;
+}
+
+#convert-box{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #400505;
+  width: 50%;
+  height: 250px;
+  margin: 0 auto;
+}
+
+#number{
+  height: 15%;
+  width: 70%;
+  margin-bottom: 10px;
+}
+
+#convert-btn{
+  width: 100px;
+  height: 15%;
+}
+
+#output{
+  margin-bottom: 20px;
+}
