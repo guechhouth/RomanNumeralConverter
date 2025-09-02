@@ -23,6 +23,7 @@ body{
 }
 
 #convert-btn{
+  margin-top: 20px;
   width: 100px;
   height: 15%;
 }
